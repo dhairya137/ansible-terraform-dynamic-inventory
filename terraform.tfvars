@@ -1,0 +1,8 @@
+vpc_cidr_block      = "10.0.0.0/16"
+subnet_1_cidr_block = "10.0.0.0/24"
+avail_zone          = "ap-south-1a"
+env_prefix          = "dev"
+my_ip               = "0.0.0.0/0"
+instance_type       = "t2.micro"
+ssh_key             = "/home/dhairya/.ssh/id_rsa.pub"
+ssh_key_private     = "/home/dhairya/.ssh/id_rsa"
