@@ -13,6 +13,7 @@
 ```
 
 3. Create aws ec2 instances with terraform.
+
 4. Follow this commands. This will create 3 ec2 instances.
 
 ```bash
