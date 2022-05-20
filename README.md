@@ -5,10 +5,10 @@
 <hr>
 
 1. inventory_aws_ec2.yml this is config file for our hosts.
-
-2. run this command to get all your running ec2 instances.
+2. Run this command to get all your ec2 instances.
 
 ```bash
+ ansible-inventory -i inventory_aws_ec2.yaml --graph #I prefer graph
  ansible-inventory -i inventory_aws_ec2.yaml --list
 ```
 
