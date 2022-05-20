@@ -3,7 +3,9 @@
 **We are using ansible aws plugin to use dynamic inventory.**
 
 <hr>
+
 1. inventory_aws_ec2.yml this is config file for our hosts.
+
 2. run this command to get all your running ec2 instances.
 
 ```bash
